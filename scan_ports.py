@@ -19,6 +19,6 @@ def port_scanner(target, ports):
 
 
 #Exemplo de uso
-target = "brsodev.myftp.org"
+target = "brechomiraluh.com.br"
 ports = [21, 22, 80, 443, 8080]
 port_scanner(target, ports)
