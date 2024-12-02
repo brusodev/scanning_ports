@@ -1,4 +1,4 @@
-# Scaneando portas abertas de um domínio
+# Escaneando portas abertas de um domínio!
 
 ## Escrevi esse código para verificar se as portas de um hostname estão abertas, consultando diretamente pelo domínio.
 
